@@ -4,10 +4,13 @@ h1{color: chocolate;
     text-align: center;
 }
 img{float: left;
-    border-style: dotted 10px yellow;
-    margin: auto;
-    padding: auto;
+    border: solid 10px red;
+    margin-right: 12px;
+    padding: 2px;
 }
 ul{
     list-style-type:square ;
+}
+h2{
+    text-align: left;
 }
